@@ -10,7 +10,9 @@ It analyzes things like **typing speed, programming language, coding state, and 
 
 ## 📸 Preview
 
-![TerminalVibes Overlay](./docs/terminalvibes-overlay.png)
+<p align="center">
+  <img src="Screenshot 2026-09-17 153910.png" alt="Front Page" width="900"/>
+</p>
 
 The overlay displays the current:
 
