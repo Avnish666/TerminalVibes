@@ -1,4 +1,4 @@
-const WS_URL = "ws://127.0.0.1:8000/ws/music";
+const WS_URL = "wss://terminalvibes.onrender.com/ws/music";
 
 const MAX_QUEUE_SIZE = 3;
 
