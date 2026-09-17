@@ -496,18 +496,6 @@ The extension is responsible for:
 
 ---
 
-# 🔮 Future Improvements
-
-- Support for more programming languages
-- More genres and musical styles
-- More sophisticated activity-to-music mapping
-- Improved musical variation
-- Playlist and session sharing
-- Machine-learning based activity → music mapping
-- Chrome Web Store release
-
----
-
 # 👨‍💻 Author
 
 **Avnish Singh**
